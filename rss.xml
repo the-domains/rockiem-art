@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rockiem Art]]></title>
         <description><![CDATA[Rockiem Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rockiem-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 20:17:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 22:26:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rockiem-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24d3dc80-6234-41d9-a647-55ca4abfa5a7.jpg">]]></description>
+            <link>https://thegrid.ai/rockiem-art/rockiem-art-paintings-from-gold-collection-abstract-122/index.html</link>
+            <guid isPermaLink="false">269d5a34-347a-4dd8-861a-24f0f8a19b54</guid>
+            <pubDate>Tue, 22 Mar 2016 22:25:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/453c367d-a8a1-43dc-8b55-d30d428931a9.jpg">]]></description>
-            <link>undefined2ff801e1-5c3a-494a-a5d2-1b9c883c3c63/index.html</link>
+            <link>https://thegrid.ai/rockiem-art/2ff801e1-5c3a-494a-a5d2-1b9c883c3c63/index.html</link>
             <guid isPermaLink="false">2ff801e1-5c3a-494a-a5d2-1b9c883c3c63</guid>
             <pubDate>Tue, 22 Mar 2016 20:15:54 GMT</pubDate>
         </item>
